@@ -2,7 +2,7 @@
 ##
 
 - 👩‍💻 Estagiária em Desenvolvimento Web no Tribunal de Justiça do Estado do Amazonas.
-- 🌱 Estudante de Sistemas de Informação, atualmente cursando o 6º período.
+- 🌱 Estudante de Sistemas de Informação, atualmente cursando o 7º período.
 
 <div>
   <a href="https://github.com/anakessia">
