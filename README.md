@@ -2,7 +2,7 @@
 ##
 
 - 👩‍💻 Intern in Web Development at the Court of Justice of the State of Amazonas.
-- 🌱 Student of Information Systems, currently attending the 7th period.
+- 👩‍🎓 Student of Information Systems, currently attending the 7th period.
 <div>
   <a href="https://github.com/anakessia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anakessia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
