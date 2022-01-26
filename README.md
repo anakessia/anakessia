@@ -1,9 +1,8 @@
-### Olá!!! Eu sou a Ana Kessia😄
+### Hi!!! I'm Ana Kessia😄
 ##
 
-- 👩‍💻 Estagiária em Desenvolvimento Web no Tribunal de Justiça do Estado do Amazonas.
-- 🌱 Estudante de Sistemas de Informação, atualmente cursando o 7º período.
-
+- 👩‍💻 Intern in Web Development at the Court of Justice of the State of Amazonas.
+- 🌱 Student of Information Systems, currently attending the 7th period.
 <div>
   <a href="https://github.com/anakessia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anakessia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
