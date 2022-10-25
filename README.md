@@ -26,3 +26,7 @@
       <a href="https://www.instagram.com/anaksors/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"           target="_blank"></a>
       <a href="https://www.linkedin.com/in/ana-kessia-b05b31183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+<p align="center" style="font-size: 10px;"><img src="https://profile-counter.glitch.me/{anakessia}/count.svg" alt="anakessia :: Visitor's Count" /></p>
+</div>
