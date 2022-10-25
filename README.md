@@ -28,5 +28,6 @@
 </div>
 
 <div>
+<p align="center"><strong>Visitor's Count</strong></p>
 <p align="center" style="font-size: 10px;"><img src="https://profile-counter.glitch.me/{anakessia}/count.svg" alt="anakessia :: Visitor's Count" /></p>
 </div>
