@@ -1,7 +1,6 @@
 ### Hi!!! I'm Ana Kessia😄
 ##
 
-- 👩‍💻 Intern in Web Development at the Court of Justice of the State of Amazonas.
 - 👩‍🎓 Student of Information Systems, currently attending the 8th period.
 <div>
   <a href="https://github.com/anakessia">
