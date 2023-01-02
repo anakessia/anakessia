@@ -1,7 +1,6 @@
 ### Hi!!! I'm Ana Kessia😄
 ##
 
-- 👩‍🎓 Student of Information Systems, currently attending the 8th period.
 <div>
   <a href="https://github.com/anakessia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anakessia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
