@@ -1,5 +1,8 @@
 ### Hi!!! I'm Ana Kessia😄
 ##
+<a href="https://github.com/anakessia/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anakessia&show_icons=true&theme=bear" />
+</a>
 
  ## 🖥️ TECHNOLOGIES & TOOLS
 <div style="display: inline_block"><br>
