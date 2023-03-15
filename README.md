@@ -1,8 +1,10 @@
 ### Hi!!! I'm Ana Kessia😄
 ##
-<a href="https://github.com/anakessia/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anakessia&show_icons=true&theme=bear" />
-</a>
+<div>
+  <a href="https://github.com/anakessia">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anakessia&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakessia&layout=compact&langs_count=7&theme=bear"/>
+</div>
 
  ## 🖥️ TECHNOLOGIES & TOOLS
 <div style="display: inline_block"><br>
@@ -17,7 +19,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="night-cat.png">        
 </div>
   
- ## ⚡ CONTACT
+ ## 👋 CONTACT
   
  <div> 
       <a href="https://www.instagram.com/anaknoers/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
