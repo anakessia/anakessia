@@ -11,10 +11,7 @@
   <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img  align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-          
-          
-          
-          
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">        
 </div>
   
  ## ⚡ CONTACT
