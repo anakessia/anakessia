@@ -1,6 +1,12 @@
 ### Hi!!! I'm Ana Kessia😄
 ##
 
+<div>
+  <a href="https://github.com/anakessia">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anakessia&theme=dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakessia&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
  ## 🖥️ TECHNOLOGIES & TOOLS
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
