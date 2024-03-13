@@ -1,5 +1,6 @@
-### Hi!!! I'm Ana Kessia😄
-##
+ <p align="center">
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🙋‍♀️%20Hi!%20I'm%20Ana;👩‍💻%20Fullstack%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <div>
   <a href="https://github.com/anakessia">
@@ -24,7 +25,7 @@
   <img align="right" alt="cat" height="150" style="border-radius:50px;" src="night-cat.png">        
 </div>
   
- ## 👋 CONTACT
+ ##  📲 CONTACT
   
  <div> 
       <a href="https://www.linkedin.com/in/ana-kessia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
