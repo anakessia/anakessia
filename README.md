@@ -26,5 +26,8 @@
 </div>
   
  ##  📲 CONTACT
+
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/anakurien)
+
   
 
