@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🙋‍♀️%20Hi!%20I'm%20Ana;👩‍💻%20Fullstack%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🙋‍♀️%20Hi!%20I'm%20Ana;👩‍💻%20Front-End%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div>
