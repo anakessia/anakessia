@@ -2,14 +2,13 @@
   <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🙋‍♀️%20Olá!%20Seja%20bem-vindo&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 About me
 <div>
 <p>
-Me chamo Ana Kessia, sou desenvolvedora Front-End com mais de 2 anos de experiência na área de tecnologia.
-Sou formada em Sistemas de Informação e pós-graduada em Engenharia de Software. Ao longo da minha trajetória, foquei no desenvolvimento de soluções web priorizando usabilidade, acessibilidade e performance.
-Tenho experiência prática com linguagens e ferramentas como: HTML, CSS, JavaScript, TypeScript, PHP, Python, Angular, React, Next.js, FastAPI, MySQL, entre outras.</p>
+I'm Ana Kessia, a Front-End developer with over 2 years of experience in the tech field. I hold a degree in Information Systems and a postgraduate degree in Software Engineering. Throughout my journey, I have focused on developing web solutions with an emphasis on usability, accessibility, and performance.
+I have hands-on experience with technologies and tools such as: HTML, CSS, JavaScript, TypeScript, PHP, Python, Angular, React, Next.js, FastAPI, MySQL, among others.</p>
 <blockquote align="center">
-  Aqui no GitHub, você encontrará projetos que refletem meu compromisso com código limpo, boas práticas e melhoria contínua.
+  Here on GitHub, you'll find projects that reflect my commitment to clean code, best practices, and continuous improvement.
 </blockquote>
 
 </div>
