@@ -8,7 +8,10 @@
 Me chamo Ana Kessia, sou desenvolvedora Front-End com mais de 2 anos de experiência na área de tecnologia.
 Sou formada em Sistemas de Informação e pós-graduada em Engenharia de Software. Ao longo da minha trajetória, foquei no desenvolvimento de soluções web priorizando usabilidade, acessibilidade e performance.
 Tenho experiência prática com linguagens e ferramentas como: HTML, CSS, JavaScript, TypeScript, PHP, Python, Angular, React, Next.js, FastAPI, MySQL, entre outras.</p>
-<p>Aqui no GitHub, você encontrará projetos que refletem meu compromisso com código limpo, boas práticas e melhoria contínua.</p>
+<blockquote align="center">
+  Aqui no GitHub, você encontrará projetos que refletem meu compromisso com código limpo, boas práticas e melhoria contínua.
+</blockquote>
+
 </div>
 
  ## 🖥️ TECHNOLOGIES & TOOLS
