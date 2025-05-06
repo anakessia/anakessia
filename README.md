@@ -24,7 +24,7 @@ Tenho experiência prática com linguagens e ferramentas como: HTML, CSS, JavaSc
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">    
 </div>
-
+<br>
   
  ##  📲 CONTACT
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:anaoliveiraors@gmail.com)
