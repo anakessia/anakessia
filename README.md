@@ -2,7 +2,7 @@
   <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🙋‍♀️%20Olá!%20Seja%20bem-vindo&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-## 👩‍💻 About me
+## 👩‍💻 About Me
 <div>
 <p>
 I'm Ana Kessia, a Front-End developer with over 2 years of experience in the tech field. I hold a degree in Information Systems and a postgraduate degree in Software Engineering. Throughout my journey, I have focused on developing web solutions with an emphasis on usability, accessibility, and performance.
